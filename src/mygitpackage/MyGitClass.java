@@ -20,6 +20,7 @@ public class MyGitClass {
 		System.out.println("19.satir Bilgisayarim");
 
 		System.out.println("19. satir uzak sunucu");
+		System.out.println("23. satir uzak sunucu");
 
 	}
 
