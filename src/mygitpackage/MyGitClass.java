@@ -10,6 +10,7 @@ public class MyGitClass {
 		System.out.println("my 5 commit");
 		System.out.println("uzak sunucudaki kodlarim");
 		System.out.println("12. satir uzak sunucu");
+		System.out.println("Ders tekrar kapsaminda uzak sunucuda degisiklik");
 	}
 
 }
