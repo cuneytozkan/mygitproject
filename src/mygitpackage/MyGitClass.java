@@ -16,7 +16,11 @@ public class MyGitClass {
 		System.out.println("Ders tekrar kapsaminda uzak sunucuda degisiklik");
 		System.out.println("kontrol et");
 		System.out.println("github degisikligi");
+
 		System.out.println("19.satir Bilgisayarim");
+
+		System.out.println("19. satir uzak sunucu");
+
 	}
 
 }
