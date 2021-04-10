@@ -23,6 +23,8 @@ public class MyGitClass {
 		System.out.println("23. satir uzak sunucu");
  
 		System.out.println("24. satir bilgisayarim");
+		
+		System.out.println("Cuneyt branchinda yazdigim kodlar. satir 27");
 	}
 
 }
