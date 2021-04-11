@@ -25,6 +25,8 @@ public class MyGitClass {
 		System.out.println("24. satir bilgisayarim");
 		
 		System.out.println("Cuneyt branchinda yazdigim kodlar. satir 27");
+		System.out.println("Cuneyt branchinda yazdigim kodlar. satir 28");
+		System.out.println("Cuneyt branchinda yazdigim kodlar. satir 29");
 	}
 
 }
